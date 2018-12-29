@@ -1,3 +1,10 @@
+
+Based on the work from Matt Raible with Spring Boot Development from the following location
+https://developer.okta.com/blog/2017/04/26/bootiful-development-with-spring-boot-and-angular
+
+Difference is this is runing with Angular 7.
+
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
